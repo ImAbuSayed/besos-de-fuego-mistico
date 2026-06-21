@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Besos de
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-22T05:13:11.814256 | `v1` | `0c2253c9a8d427b1a13b6f8cabd78e3935a0c1bec10943f32a26fa3d27f20b25` | `965d09aa2ff10eeef839492af4907be25e578d39a3c3825d92d4e8829527fc54` | `2026-06-22_besos-de-fuego-mistico-v1.txt` |
+| 2026-06-22T05:52:59.982330 | `v2` | `09694f13392a07c19e4161b540974e6375f7ae1e484fd4da5139498a1872be17` | `e0455169c502af38f8d62b86c466c87c8377f1c12e23853b61d98c877a23c747` | `2026-06-22_besos-de-fuego-mistico-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
