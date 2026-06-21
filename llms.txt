@@ -15,7 +15,7 @@
 | **Written On** | June 21, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/besos-de-fuego-mistico/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Besos de fuego místico](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-fuego-mistico/) |
+| **Get License** | [Music Rights & Licensing for Besos de fuego místico](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-fuego-mistico/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -44,7 +44,7 @@
 
 ## 🔗 Song Links
 
-- [Telegram](https://t.me/AbuSayedMusic/3993)
+- [Telegram](https://t.me/AbuSayedMusic/4007)
 
 ---
 
