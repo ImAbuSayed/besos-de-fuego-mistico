@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Besos de fuego místico
+
+This log tracks the cryptographic history and versioning for the song **Besos de fuego místico** (besos-de-fuego-mistico).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T05:13:11.814256 | `v1` | `0c2253c9a8d427b1a13b6f8cabd78e3935a0c1bec10943f32a26fa3d27f20b25` | `965d09aa2ff10eeef839492af4907be25e578d39a3c3825d92d4e8829527fc54` | `2026-06-22_besos-de-fuego-mistico-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
