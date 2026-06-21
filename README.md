@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/besos-de-fuego-mistico/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Besos de fuego místico](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-fuego-mistico/) |
+| **Get License** | [Get a Licensing Quote for Besos de fuego místico](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-fuego-mistico/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, en la disco tú brillas, rompiendo la oscuridad
+> Your body is callin', me pierdo en tu sensualidad
+> Moviendo la cintura, me llevas a otra ciudad
+> Con besos de fuego místico, quemando la frialdad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
